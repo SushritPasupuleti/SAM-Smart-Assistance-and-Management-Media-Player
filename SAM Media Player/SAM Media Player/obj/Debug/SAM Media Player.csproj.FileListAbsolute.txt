@@ -1,0 +1,14 @@
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\SAM Media Player.csprojResolveAssemblyReference.cache
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\Interop.WMPLib.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\SAM Media Player.csproj.ResolveComReference.cache
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\SAM_Media_Player.Form1.resources
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\SAM_Media_Player.Properties.Resources.resources
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\SAM Media Player.csproj.GenerateResource.Cache
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\bin\Debug\SAM Media Player.exe.config
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\bin\Debug\SAM Media Player.exe
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\bin\Debug\SAM Media Player.pdb
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\bin\Debug\Interop.WMPLib.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\SAM Media Player.exe
+c:\users\sushr\documents\visual studio 2017\Projects\SAM Media Player\SAM Media Player\obj\Debug\SAM Media Player.pdb
